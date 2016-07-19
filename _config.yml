@@ -1,14 +1,14 @@
-layout_spectrum: 0.5453481806907803
-typography_spectrum: 0.5493283777032048
+layout_spectrum: 0.16497543756850064
+typography_spectrum: 0.5846056900918484
 color:
-  brandStrength: 0.3248439140152186
-  lightness: 0.8198251144494861
-  saturation: 0.5200294291134924
-  rhythmicContrast: 0.17769745760597289
+  brandStrength: 0.4656034673098475
+  lightness: 0.7743346455972642
+  saturation: 0.16293552448041737
+  rhythmicContrast: 0.9013325050473213
   brandColors:
-    - '#B8ECD7'
-    - '#083643'
-    - '#B1E001'
-    - '#CEF09D'
-    - '#476C5E'
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 name: Ux
